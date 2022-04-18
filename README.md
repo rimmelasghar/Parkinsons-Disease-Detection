@@ -1,5 +1,5 @@
 # Parkinsons-Disease-Detection 
-Parkinson’s disease is a progressive disorder of the central nervous system affecting movement and inducing tremors and stiffness. It has 5 stages to it and affects more than 1 million individuals every year in India. This is chronic and has no cure yet. It is a neurodegenerative disorder affecting dopamine-producing neurons in the brain.
+Parkinson’s disease is a progressive disorder of the central nervous system affecting movement and inducing tremors and stiffness. It has 5 stages to it. An estimated seven to 10 million people worldwide have Parkinson's disease. This is chronic and has no cure yet. It is a neurodegenerative disorder affecting dopamine-producing neurons in the brain.
 In this Python Machine learning project, I have build a model using python which can accurately detect the presence of Parkinson’s disease in one’s body.
 
 # Detecting Parkinson’s Disease with XGBoost
