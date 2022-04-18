@@ -3,7 +3,7 @@ Parkinson’s disease is a progressive disorder of the central nervous system af
 In this Python Machine learning project, I have build a model using python which can accurately detect the presence of Parkinson’s disease in one’s body.
 
 # Detecting Parkinson’s Disease with XGBoost
-In this Project I have used scikit-learn, numpy, pandas, and xgboost, I have build a model using an XGBClassifier and loaded the data, get the features and labels, scale the features, then split the dataset, build an XGBClassifier, and then calculate the accuracy of the model.
+In this Project I have used scikit-learn, numpy, pandas, and xgboost, I have build a model using an XGBClassifier and loaded the data present in parkinsons.data, get the features and labels, scale the features, then split the dataset, build an XGBClassifier, and then calculate the accuracy of the model.
 before diving into it lets see what is XGBoost
 
 ## What is XGBoost?
